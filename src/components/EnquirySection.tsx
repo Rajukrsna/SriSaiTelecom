@@ -25,7 +25,7 @@ const EnquirySection = () => {
     <section id="contact" className="w-full max-w-6xl mx-auto my-20 animate-fade-in">
       <div className="flex flex-col items-center mb-10">
         <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-800 dark:text-gray-100 mb-4 tracking-tight">Contact our team</h1>
-        <p className="text-lg text-gray-500 dark:text-gray-300 text-center max-w-2xl mb-8">Use the form below to get in touch with our experts. We'll respond as soon as possible.</p>
+        <p className="text-lg text-gray-500 dark:text-gray-300 text-center max-w-2xl mb-8">Use the form below to get in touch with our experts. We will respond as soon as possible.</p>
       </div>
       <div className="bg-white/90 dark:bg-gray-900/90 rounded-3xl shadow-xl border border-gray-100 dark:border-gray-800 px-0 py-0 animate-fade-in">
         <div className="flex flex-col md:flex-row">

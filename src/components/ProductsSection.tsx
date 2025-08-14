@@ -118,7 +118,7 @@ const ProductsSection = () => {
         <span className="text-gray-700 font-semibold">Products</span>
       </div>
       <h1 className="text-3xl sm:text-4xl font-extrabold text-gray-800 dark:text-gray-100 mb-2">Products we Offer</h1>
-      <p className="text-gray-600 dark:text-gray-300 mb-8 max-w-2xl">Browse our gallery of products and find a product that's right for you.</p>
+      <p className="text-gray-600 dark:text-gray-300 mb-8 max-w-2xl">Browse our gallery of products and find a product that is right for you.</p>
       <div className="flex flex-col md:flex-row gap-8">
         {/* Sidebar Filters */}
         <aside className="w-full md:w-64 bg-white/80 dark:bg-gray-900/80 rounded-2xl border border-gray-100 dark:border-gray-800 p-6 shadow-sm mb-4 md:mb-0">
